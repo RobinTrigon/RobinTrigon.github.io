@@ -1,2 +1,2 @@
 # Happy Birthday !
-https://www.RobinTrigon.github.io
+https://RobinTrigon.github.io
